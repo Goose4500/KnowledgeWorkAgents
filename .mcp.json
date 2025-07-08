@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+      "competitive-intelligence-agent": {
+            "command": "uv",
+            "args": ["run", "PATH"],
+            "env": {
+              "GOOGLE_API_KEY": "",
+              "LOGFIRE_TOKEN": ""
+            }
+          }
+        }
+      }
